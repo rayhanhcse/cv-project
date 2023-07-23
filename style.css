@@ -1,0 +1,95 @@
+body{
+    background-color: #eee;
+    font-family: 'Roboto', sans-serif;
+
+}
+.container{
+    margin: 0 auto;
+    padding: 20px;
+    max-width:1000px ;
+    background-color: aliceblue;
+
+}
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.ig{
+    height: 100px;
+    width: 120px;
+    border: 3px solid  white;
+    border-radius: 50%;
+    float: left;
+
+}
+.hbio{
+    float:left;
+    padding: 30px;
+    color: blueviolet;
+
+}
+h1,h2,h3,h4,h5{
+    color: blueviolet;}
+
+.cbio{
+    float: right;
+    padding: 30px;;
+}
+.cbio a{
+    text-decoration: none;
+    color:teal
+    font-weight: bold;
+
+}
+.cbio a:hover{
+    text-decoration: underline;
+    color: tomato;
+
+}
+.dclear{
+    clear: both;
+}
+hr{
+    border: solid black 3px;
+    weight:100% ;
+    border-bottom: none;
+}
+.left{
+    width :30%;
+    float: left;
+
+}
+.Right{
+width: 70%;
+float: left;
+}
+.chr{
+    border: solid black 1px;
+    border-bottom: none;
+    margin: 20px auto;
+ 
+  
+    
+}
+.pp{
+    margin: 20px;
+}
+/*---f
+footer container
+------*/
+.bottom-container{
+    text-align: center;
+    background-color: black;
+    padding: 30px;
+    width: 100%;-
+    
+}
+.bottom-container a{
+    text-decoration: none;
+    color: white;
+    margin:20px;
+   padding: 20px;}
+   #h{
+    margin: 20px;
+   }
+  
